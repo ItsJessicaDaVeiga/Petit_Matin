@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+//Import des fonctions depuis mes différentes dépendance
+import React from 'react';
+
+
+//Import de mes components et mes pages
+import Header from './component/Header.jsx';
+import Footer from './component/Footer.jsx';
+import Presentation from './page/presentation.jsx';
+import Connexion from './page/connexion.jsx';
+
+
+
+// Import de mes fichiers CSS
 import './App.css';
+import './css/header.css';
+import './css/footer.css';
+import './css/presentation.css';
+import './css/connexion.css';
 
-function App() {
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <Header />
+        <Connexion />
+        <Footer />
+      </div>
   );
-}
-
-export default App;
+};

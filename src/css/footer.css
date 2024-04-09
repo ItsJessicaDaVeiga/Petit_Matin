@@ -1,0 +1,23 @@
+.contact-container {
+    background-color: #91d3e1;
+    color: white;
+    justify-content: space-between;
+}
+
+address {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    flex-direction: row;
+    font-weight: bold;
+
+
+}
+
+a {
+   text-decoration: none; 
+   font-size: larger;
+   color: white;
+
+}

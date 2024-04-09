@@ -1,0 +1,38 @@
+.head {
+    background-color:#a293c8;
+    /*rgb(27, 180, 170);*/
+    
+}
+
+h1{
+    display: flex;
+    margin-left: 10%;
+    color: blanchedalmond;
+    font-size: 15vw;
+    margin-bottom: 0;
+}
+
+
+.slogan {
+    color:rgb(249, 240, 226);
+    font-size: 2.5vw;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 5.5%;
+    margin-top: 0;
+    margin-bottom: 5vh;
+    font-weight: 400;
+}
+
+.menu-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1.4rem;
+    flex-direction: row;
+    background-color: #ffffff;
+    font-weight: bold;
+    margin-left: 40%;
+    backdrop-filter: blur(3px);
+    opacity: 60%;
+}
