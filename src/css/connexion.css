@@ -1,18 +1,12 @@
-.connexion {
-    height: 34vh; 
- }
 
 .login-container {
-    color: antiquewhite;
-    background-color: #6FBFB1;
     display: flex;
     flex-direction: column;
     margin: auto;
     margin-top: 20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    background-color: #F2D377;
     padding-bottom: 30px;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 .login-header {
@@ -22,10 +16,88 @@
     gap: 9px;
     width: 100%;
     margin-top: 15px;
+
 }
 
-.inputs {
+.text {
     color: blanchedalmond;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.underline{
+    width: 70px;
+    height: 6px;
+    background: rgb(192, 200, 117);
+    border-radius: 9px;
+    margin-top: -35px;
+}
+
+
+.inputs {
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 80px;
+    background-color: rgb(192, 200, 117);
+    border-radius: 40px;
+}
+
+.input img {
+    margin: 0px 30px;
+}
+
+.input input {
+    height: 50%;
+    width: 70%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 19px;
+}
+
+.forgot-password {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 80px;
+    color:#797979;
     font-size: 18px;
+}
+
+.forgot-password span {
+    color: rgb(53, 95, 224);
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.submit-container {
+    display: flex;
+    gap: 30px;
+    margin: 30px auto;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 59px;
+    color: #ffffff;
+    background-color: #e2914a;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
 }
 

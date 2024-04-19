@@ -1,18 +1,22 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import logo from "../images/2.png";
+
 
 
 export default function Header () {
     return(
         <div className="head">
-            <img id="image-container" src={logo} alt="illustration représentant un petit dinosaure" width="150"/>
-            <h1> Petit Matin </h1>
+            <div className="title-logo-container"><a href="http://localhost:3000">
+                <img id="image-container" src={logo} alt="illustration représentant un petit dinosaure" width="250"/>
+                <h1> Petit Matin </h1></a>
+            </div>
             <p className="slogan">Chaque matin est une aventure excitante et bien orchestrée</p>
             <ul className="menu-list">
-                <li>Présentation</li>
-                <li>Qui suis-je ?</li>
-                <li>S'inscrire</li>
-                <li>Connexion</li>
+                <li><NavLink to="/presentation" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink" )}>Présentation</NavLink></li>
+                <li><NavLink to="/quisommesnous" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>Qui sommes nous ?</NavLink></li>
+                <li><NavLink to="/inscription" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>S'inscrire</NavLink></li>
+                <li><NavLink to="/connexion" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>Connexion</NavLink></li>
             </ul>
         </div>
     )
