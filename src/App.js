@@ -9,8 +9,8 @@ import Header from './component/Header.jsx';
 import Footer from './component/Footer.jsx';
 import Presentation from './page/presentation.jsx';
 import Connexion from './page/connexion.jsx';
-import Inscription from './page/inscription.jsx';
 import Quisommesnous from './page/quisommesnous.jsx';
+import Faq from './page/faq.jsx';
 
 
 
@@ -20,6 +20,7 @@ import './css/header.css';
 import './css/footer.css';
 import './css/presentation.css';
 import './css/connexion.css';
+import FAQ from './page/faq.jsx';
 
 
 export default function App() {
@@ -29,7 +30,7 @@ export default function App() {
         <Routes>
           <Route path="/presentation" element={ <Presentation/> }/> 
           <Route path="/connexion" element={ <Connexion/>} />
-          <Route path="/inscription" element= {<Inscription/>} />
+          <Route path="/faq" element={ <FAQ/>} />
           <Route path="/quisommesnous" element= {<Quisommesnous/>} />          
         </Routes>
         <Footer />

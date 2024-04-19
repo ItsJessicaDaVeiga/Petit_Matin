@@ -15,8 +15,8 @@ export default function Header () {
             <ul className="menu-list">
                 <li><NavLink to="/presentation" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink" )}>Présentation</NavLink></li>
                 <li><NavLink to="/quisommesnous" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>Qui sommes nous ?</NavLink></li>
-                <li><NavLink to="/inscription" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>S'inscrire</NavLink></li>
-                <li><NavLink to="/connexion" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>Connexion</NavLink></li>
+                <li><NavLink to="/faq" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>FAQ</NavLink></li>
+                <li><NavLink to="/connexion" className={({ isActive }) => ( isActive ? "activeLink" : "passiveLink")}>Connexion/Inscription</NavLink></li>
             </ul>
         </div>
     )
