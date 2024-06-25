@@ -11,7 +11,7 @@
 - Rappels sonores pour aider les enfants à rester concentrés
 - Bouton "Je suis prêt" pour marquer l'accomplissement de la routine
 - Interface intuitive et engageante
-- - **Interface parentale** pour suivre la progression de l'enfant et identifier les tâches sur lesquelles il a des difficultés
+- **Interface parentale** pour suivre la progression de l'enfant et identifier les tâches sur lesquelles il a des difficultés
 
 
 ## Objectifs
