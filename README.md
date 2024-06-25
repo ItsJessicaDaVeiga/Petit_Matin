@@ -28,8 +28,8 @@
 - CSS pour le style et la mise en page
 
 ## État du projet
-
-Ce projet est actuellement en développement et n'est pas encore prêt pour une utilisation publique. 
+ 
+Petit Matin est un projet propriétaire en cours de développement. Tous les droits sont réservés. Ce projet n'est pas open source et n'est pas disponible pour une utilisation, modification ou distribution publique.
 
 ## Installation
 
@@ -52,8 +52,23 @@ Les parents pourront :
 
 Bien que **Petit Matin** soit conçu pour aider les enfants à gagner en autonomie et à se responsabiliser, il est recommandé aux parents de suivre la routine de leurs enfants, surtout pour les plus jeunes, afin de s'assurer qu'ils accomplissent correctement leurs tâches.
 
+## Note de confidentialité
+
+Ce repository est privé et son contenu est confidentiel. Si vous avez accès à ce projet, veuillez ne pas partager, copier ou distribuer son contenu sans autorisation explicite.
+
+## Droits d'auteur
+
+Copyright © 2024 Jessica Da Veiga. Tous droits réservés.
+
+Ce projet est protégé par le droit d'auteur. Toute utilisation, reproduction, modification ou distribution non autorisée est strictement interdite.
+
 ## Contact
 
-Jessica Da Veiga - [https://github.com/ItsJessicaDaVeiga](https://github.com/ItsJessicaDaVeiga)
+Pour toute demande concernant ce projet, veuillez contacter :
+
+Jessica Da Veiga
+GitHub : [https://github.com/ItsJessicaDaVeiga](https://github.com/ItsJessicaDaVeiga)
+
+Merci de noter que ce projet n'est pas ouvert aux contributions externes pour le moment.
 
 Lien du projet : [https://github.com/ItsJessicaDaVeiga/PetitMatin](https://github.com/ItsJessicaDaVeiga/PetitMatin)
