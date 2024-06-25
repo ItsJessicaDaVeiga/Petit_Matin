@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Petit Matin
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description du projet
 
-## Available Scripts
+**Petit Matin** est une application interactive conçue pour aider les enfants de 4 ans et plus à gérer leur routine matinale de manière autonome et efficace. Ce projet personnel vise à transformer les matins chaotiques en moments de calme et de réussite pour toute la famille.
 
-In the project directory, you can run:
+## Fonctionnalités
 
-### `npm start`
+- Todo liste interactive guidant les enfants à travers chaque étape de leur routine matinale
+- Illustrations colorées et instructions simples adaptées aux jeunes enfants
+- Rappels sonores pour aider les enfants à rester concentrés
+- Bouton "Je suis prêt" pour marquer l'accomplissement de la routine
+- Interface intuitive et engageante
+- - **Interface parentale** pour suivre la progression de l'enfant et identifier les tâches sur lesquelles il a des difficultés
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Objectifs
 
-### `npm test`
+- Développer l'autonomie des enfants
+- Encourager des habitudes saines et responsables dès le plus jeune âge
+- Réduire le stress matinal pour les enfants et les parents
+- Créer une expérience ludique et éducative
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies utilisées
 
-### `npm run build`
+- React JS pour le développement frontend
+- Node.js pour le backend
+- CSS pour le style et la mise en page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## État du projet
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Ce projet est actuellement en développement et n'est pas encore prêt pour une utilisation publique. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+Les instructions d'installation seront fournies une fois que le projet sera prêt pour le déploiement.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Utilisation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Une fois l'application lancée, l'enfant pourra :
+1. Suivre sa liste de tâches matinales étape par étape
+2. Interagir avec des illustrations colorées
+3. Recevoir des rappels sonores amicaux
+4. Cliquer sur le bouton "Je suis prêt" une fois la routine terminée
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Les parents pourront :
+1. Accéder à une interface dédiée pour voir la progression de leur enfant
+2. Identifier les tâches sur lesquelles l'enfant a des difficultés
+3. Recevoir des notifications sur l'état d'avancement de la routine matinale de leur enfant
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Recommandations pour les parents
 
-## Learn More
+Bien que **Petit Matin** soit conçu pour aider les enfants à gagner en autonomie et à se responsabiliser, il est recommandé aux parents de suivre la routine de leurs enfants, surtout pour les plus jeunes, afin de s'assurer qu'ils accomplissent correctement leurs tâches.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Jessica Da Veiga - [https://github.com/ItsJessicaDaVeiga](https://github.com/ItsJessicaDaVeiga)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Lien du projet : [https://github.com/ItsJessicaDaVeiga/PetitMatin](https://github.com/ItsJessicaDaVeiga/PetitMatin)
