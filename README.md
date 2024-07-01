@@ -54,7 +54,7 @@ Bien que **Petit Matin** soit conçu pour aider les enfants à gagner en autonom
 
 ## Note de confidentialité
 
-Ce repository est privé et son contenu est confidentiel. Si vous avez accès à ce projet, veuillez ne pas partager, copier ou distribuer son contenu sans autorisation explicite.
+Ce projet est privé. Si vous avez accès à ce projet, veuillez ne pas partager, copier ou distribuer son contenu sans autorisation explicite.
 
 ## Droits d'auteur
 
